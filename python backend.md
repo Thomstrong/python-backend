@@ -6,7 +6,7 @@
 
   - 性能对比
 
-    ![Python Web 框架](D:\Thomstrong\复习资料\python Web框架性能对比.png)
+    ![Python Web 框架](D:\Thomstrong\复习资料\python-backend\python Web框架性能对比.png)
 
 - ## Django
 
