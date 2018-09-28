@@ -56,7 +56,7 @@
 
   - 性能对比
 
-    ![数据库性能对比](https://github.com/Thomstrong/review-for-job/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94.jpg
+    ![数据库性能对比](https://github.com/Thomstrong/review-for-job/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94.jpg)
 
   - 分类
 
