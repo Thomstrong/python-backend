@@ -6,7 +6,7 @@
 
   - 性能对比
 
-    ![Python Web 框架](D:\Thomstrong\复习资料\review-for-job\python Web框架性能对比.png)
+    ![Python Web 框架](https://github.com/Thomstrong/review-for-job/blob/master/python%20Web%E6%A1%86%E6%9E%B6%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94.png)
 
 - ## Django
 
@@ -56,7 +56,7 @@
 
   - 性能对比
 
-    ![数据库性能对比](D:\Thomstrong\复习资料\review-for-job\数据库性能对比.jpg)
+    ![数据库性能对比](https://github.com/Thomstrong/review-for-job/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94.jpg
 
   - 分类
 
